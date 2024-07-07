@@ -15,6 +15,10 @@ Process
 3.	Measures Creation with DAX: Key performance indicators (KPIs) and measures are created using Data Analysis Expressions (DAX) to quantify customer churn and other relevant metrics.
 4.	Validation: All data transformations, relationships, and measures are thoroughly validated to ensure accuracy and reliability of insights.
 5.	Dashboard Creation: Interactive dashboards are designed using appropriate visualizations in Power BI. These dashboards provide intuitive insights into customer churn patterns, preferred order category, customer complaints, and other actionable insights.
+![image](https://github.com/NivedhaSenthilkumar/E-Commerce-Customer-Churn-Analysis-Using-PowerBI/assets/174927492/c7f8e141-6dab-48cc-a665-481e10874b83)
+
+![image](https://github.com/NivedhaSenthilkumar/E-Commerce-Customer-Churn-Analysis-Using-PowerBI/assets/174927492/c4c29bea-bbc5-45c9-b085-8b1e68c91811)
+
    
 Conclusion
 •	The analysis identifies tenure, preferred payment mode, ordered category, and complaints as significant factors influencing churn rates in the e-commerce platform.
